@@ -1,0 +1,18 @@
+h1 {
+  color: #490E72;
+}
+
+body {
+  color: #490E72;
+}
+
+p {
+  border-style: solid;
+  border-color: #490E72;
+  border-width: 3px;
+  padding: 10px;
+}
+
+p:hover {
+  background-color: yellow;
+}
