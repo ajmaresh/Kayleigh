@@ -1,7 +1,14 @@
 h1 {
   color: #490E72;
+  text-align: center;
 }
 
 p {
   color: #490E72;
+  font-size: 17px;
+}
+
+.image {
+  max-width: 50%;
+  height: auto;
 }

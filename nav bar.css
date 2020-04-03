@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+.selected {
+    color: #490E72;
+}
+
 .container {
   width: 80%;
   margin: 0 auto;
@@ -68,4 +72,8 @@ nav a::before {
 
 nav a:hover::before {
   width: 100%;
+}
+
+html {
+  padding-bottom: 50px;
 }
